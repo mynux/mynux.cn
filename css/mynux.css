@@ -1,0 +1,21 @@
+.nav-bar {
+  position: fixed;
+  height: 5px;
+}
+
+.nav-item {
+  display:  inline-block; 
+  border:  1px solid #6091FF
+}
+
+.main-wrapper {
+
+}
+
+.left-wrapper {
+
+}
+
+.right-wrapper {
+  
+}

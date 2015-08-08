@@ -1,0 +1,27 @@
+.html .div {
+  display:  inline-block;
+}
+
+.nav-bar {
+  border: 1px solid #921477;
+  display: inline-block; 
+  height: 50px;
+}
+
+.nav-item {
+  display:  inline-block; 
+  border:  1px solid #6091FF
+  height: 50px;
+}
+
+.main-wrapper {
+ margin-top:  51px;
+}
+
+.left-wrapper {
+
+}
+
+.right-wrapper {
+
+}
